@@ -2,11 +2,12 @@
 Trabalho BootCamp | Matéria Modern Web Development
 
 # EQUIPE
+Rogerio Gracini<br>
 Felipe Souza Salles<br>
-Gustavo Kendi Yamashita
-Helton Souza Silveira
-Luccas Leandro Alves da Silva
-Matheus Soares Camacho
-Rafael Clementino Araujo Soares
+Gustavo Kendi Yamashita<br>
+Helton Souza Silveira<br>
+Matheus Soares Camacho<br>
+Luccas Leandro Alves da Silva<br>
+Rafael Clementino Araujo Soares<br>
 Renan Viana Vitorino Ornellas
-Rogerio Gracini
+
