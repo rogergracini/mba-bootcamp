@@ -2,7 +2,7 @@
 Trabalho BootCamp | Matéria Modern Web Development
 
 # EQUIPE
-Felipe Souza Salles
+Felipe Souza Salles<br>
 Gustavo Kendi Yamashita
 Helton Souza Silveira
 Luccas Leandro Alves da Silva
